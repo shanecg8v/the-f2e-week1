@@ -69,6 +69,15 @@
   </div>
 </template>
 
+<script>
+export default {
+  name: 'Carousel',
+  data() {
+    return {};
+  },
+};
+</script>
+
 <style lang="scss">
 .carousel-img {
   height: 400px;
